@@ -1,0 +1,16 @@
+git init
+gi add .
+git commit -m ""
+git switch -c new-branch
+gi add .
+git commit -m ""
+gi add .
+git commit -m ""
+gi add .
+git commit -m ""
+git add
+git commit -m " "
+git switch master
+git log
+git switch new-branch
+git log
